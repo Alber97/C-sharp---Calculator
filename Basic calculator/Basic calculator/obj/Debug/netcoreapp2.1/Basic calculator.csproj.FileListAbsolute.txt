@@ -1,0 +1,11 @@
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\bin\Debug\netcoreapp2.1\Basic calculator.deps.json
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\bin\Debug\netcoreapp2.1\Basic calculator.runtimeconfig.json
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\bin\Debug\netcoreapp2.1\Basic calculator.runtimeconfig.dev.json
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\bin\Debug\netcoreapp2.1\Basic calculator.dll
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\bin\Debug\netcoreapp2.1\Basic calculator.pdb
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\obj\Debug\netcoreapp2.1\Basic calculator.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\obj\Debug\netcoreapp2.1\Basic calculator.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\obj\Debug\netcoreapp2.1\Basic calculator.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\obj\Debug\netcoreapp2.1\Basic calculator.AssemblyInfo.cs
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\obj\Debug\netcoreapp2.1\Basic calculator.dll
+C:\Users\alber\Desktop\Projekty\C# - github\Basic calculator\Basic calculator\obj\Debug\netcoreapp2.1\Basic calculator.pdb
